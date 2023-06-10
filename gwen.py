@@ -176,11 +176,11 @@ if __name__ == "__main__":
                  'opening youtube,google chrome, gmail and stackoverflow ,predict time,search wikipedia'
                  ', get top headline news from times of india and many more!')
         elif 'who made you' in command:
-            print('I was built by Yashaswi, Vamshi Krishna and Sai Arun Kumar')
-            talk('I was built by Yashaswi, Vamshi Krishna and Sai Arun Kumar')
+            print('I was built by  Vamshi Krishna')
+            talk('I was built by  Vamshi Krishna')
         elif 'who discovered you' in command:
-            print('I was built by Yashaswi, Vamshi Krishna and Sai Arun Kumar')
-            talk('I was built by Yashaswi, Vamshi Krishna and Sai Arun Kumar')
+            print('I was built by Vamshi Krishna')
+            talk('I was built by Vamshi Krishna')
         elif "shutdown" in command:
             talk("Ok , your pc will log off in 10 sec make sure you exit from all applications")
             subprocess.call(["shutdown", "/l"])
